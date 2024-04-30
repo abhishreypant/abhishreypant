@@ -1,4 +1,4 @@
-# 💫 Hey, I am Abhishrey Pant, A Frontend Developer/ UX Developer 
+# 👋 Hey, I am Abhishrey Pant, A Frontend Developer/ UX Developer 
 
 
 # 💫 About Me:
